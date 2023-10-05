@@ -26,13 +26,13 @@
                  console.log (`Computador - ${computador.texto} ${computador2.texto} - ${valorCartaComputador}`)
                   if ((valorCartaUsuario <= 21) && (valorCartaUsuario > valorCartaComputador)) {
                    console.log('O usuário ganhou!')
-                  } else if ((valorCartaUsuario === valorCartaComputador)){
-                     console.log ('Empate!')
-                  } else {
-                     console.log('o computador ganhou D:');
-                  } 
+                   } else if ((valorCartaUsuario === valorCartaComputador)){
+                      console.log ('Empate!')
+                       } else {
+                       console.log('o computador ganhou D:');
+                   } 
 
 
 
-      }
+      } 
  
